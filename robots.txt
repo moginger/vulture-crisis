@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://YOUR-USERNAME.github.io/vulture-crisis/sitemap.xml
+Sitemap: https://moginger.github.io/vulture-crisis/
 
 # Crawl-delay for polite crawling
 Crawl-delay: 1
